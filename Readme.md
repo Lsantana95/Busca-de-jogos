@@ -18,7 +18,7 @@ Você pode testar o site através do link: [Link](https://busca-de-jogos.vercel.
 
 ## 🚀 API
 
-O projeto utilizou a API da Rawg para fazer a pesquisa dos jogos. Link do site da Rawg: [Rawg Website](https://rawg.io/apidocs). 
+O projeto utilizou a API da Rawg para fazer a pesquisa dos jogos. Link da documentação da Rawg: [Rawg Website](https://rawg.io/apidocs). 
 
 ## ⚙ Licença
 
