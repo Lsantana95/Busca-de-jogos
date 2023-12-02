@@ -14,6 +14,8 @@ Este projeto foi desenvolvido em:
 
 ![Projeto-Busca de jogos](img/Projeto1.gif)
 
+Você pode testar o site através do link: ![Busca de jogos](https://busca-de-jogos.vercel.app/)
+
 ## 🚀 API
 
 O projeto utilizou a API da Rawg para fazer a pesquisa dos jogos. Link do site da Rawg: [Rawg Website](https://rawg.io/apidocs). 
